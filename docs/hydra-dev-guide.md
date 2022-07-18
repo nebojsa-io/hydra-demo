@@ -1,6 +1,6 @@
 # Hydra development
 
-This guide is meant to be a tutorial on how to develop an application on Hydra. It will the reader is already familiar with developing a DApp on Cardano and will focus on the differences between the two.
+This guide is meant to be a tutorial on how to develop an application that processes transactions in a Hydra head. It will assume the reader is already familiar with developing a DApp on Cardano and will focus on the differences between the two.
 
 ## On-chain code
 
